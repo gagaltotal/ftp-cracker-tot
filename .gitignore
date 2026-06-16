@@ -1,0 +1,50 @@
+# Go build artifacts
+ftpcracker
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Go test binaries
+*.test
+
+# Go coverage
+*.out
+*.prof
+
+# Go module caches
+vendor/
+go.sum
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.env
+.env.local
+
+# Build and temporary files
+bin/
+dist/
+build/
+*.tmp
+
+# OS-specific files
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Debug
+debug.log
+*.log
+
+# Runtime files
+config.json
+*.pid
