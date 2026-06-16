@@ -56,6 +56,8 @@ go build -o ftpcracker ftp_cracker.go
 
 ## Usage
 
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/ftp-cracker-tot/refs/heads/main/Screenshot%20from%202026-06-16%2017-33-15.png)
+
 ### Basic Command Structure
 
 ```bash
@@ -76,6 +78,8 @@ go build -o ftpcracker ftp_cracker.go
 ```
 
 ### Usage Examples
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/ftp-cracker-tot/refs/heads/main/Screenshot%20from%202026-06-16%2018-57-57.png)
 
 #### Basic Brute Force Attack
 
